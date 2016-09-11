@@ -18,7 +18,7 @@ Then in your code:
     Vue.use(VueResourceNProgress);
 
 
-NOTE: You should have `NProgress` set globally (A example to add `nprogress` plugin in `<script>` in `<head>`)
+NOTE: You should have `NProgress` set globally (A example of this is adding `nprogress` plugin in `<script>` in `<head>`)
 
 ## Configuration
 
