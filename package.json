@@ -1,6 +1,6 @@
 {
   "name": "vue-resource-nprogress",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Interceptor that ties a progressbar to all requests, that it is clear that something is loading",
   "main": "dist/vue-resource-nprogress.es5.js",
   "repository": {

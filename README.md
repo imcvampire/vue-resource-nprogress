@@ -18,7 +18,17 @@ Then in your code:
     Vue.use(VueResourceNProgress);
 
 
-NOTE: You should have `NProgress` set globally (A example of this is adding `nprogress` plugin in `<script>` in `<head>`)
+NOTE: You should have `NProgress` installed globally. 
+A example of this is adding `nprogress` plugin in `<script>` in `<head>`
+
+### Using CommonJS
+
+```
+npm i nprogress
+import NProgress from 'nprogress'
+window.NProgress = NProgress
+require('nprogress/nprogress.css')
+```
 
 ## Configuration
 
