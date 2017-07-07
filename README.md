@@ -1,5 +1,7 @@
 # vue-resource-nprogress
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/imcvampire/vue-resource-nprogress.svg)](https://greenkeeper.io/)
+
 This is a fork of [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor) but instead of using [vue-progressbar](https://github.com/hilongjw/vue-progressbar), this plugin uses [nprogress](https://github.com/rstacruz/nprogress)
 
 Module attaches interceptors to vue instance which controls progressbar on top of the screen.
